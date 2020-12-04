@@ -1,6 +1,6 @@
 <p align="center">
   <img src="img.jpg" />
-  <font size="6">Hey! My name is Kaiden and I code primarily but not limited to C#!</font>
+  Hey! My name is Kaiden and I code primarily but not limited to C#!
   </br>
   <p align="center">
 	<a href="https://www.discord.gg/dHkVBpR">
