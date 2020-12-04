@@ -11,3 +11,8 @@
 	</a>
   </p>
 </p>
+
+- Working on my Discord Bot (closed source atm) and Fluid Dynamics (Also closed source)
+- Researching AI and SPH
+- Specs: Laptop - XPS 13 2-in-1 7390
+- Stupidly naive when it comes to supercomputers
