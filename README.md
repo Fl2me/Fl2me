@@ -3,7 +3,7 @@
   Hey! My name is Kaiden and I code primarily but not limited to C#!
   </br>
   <p align="center">
-	<a href="https://www.discord.gg/dHkVBpR">
+	<a href="https://www.discord.gg/YEgvUumE8b">
 	  <img src="https://img.shields.io/badge/Join%20Our%20Discord-7289DA?logoColor=white&logo=discord&style=for-the-badge&&logoWidth=30" />
 	</a>
 	<a href="https://www.youtube.com/channel/UCB-htZHfX0T9dQlvPuy753Q">
