@@ -6,8 +6,11 @@
 	<a href="https://www.discord.gg/YEgvUumE8b">
 	  <img src="https://img.shields.io/badge/Join%20Our%20Discord-7289DA?logoColor=white&logo=discord&style=for-the-badge&&logoWidth=30" />
 	</a>
-	<a href="https://www.youtube.com/channel/UCB-htZHfX0T9dQlvPuy753Q">
+	<a href="https://www.youtube.com/channel/UC0C7dwEw_VnAApcSq501HWA">
 	  <img src="https://img.shields.io/badge/Subscribe%20To%20My%20YouTube-ff0000?logoColor=white&logo=youtube&style=for-the-badge&&logoWidth=30" />
+	</a>
+	<a href="https://www.twitch.tv/fl2mexd">
+	  <img src="https://img.shields.io/badge/Follow%20Me%20On%20Titch-ff0000?logoColor=white&logo=twitch&style=for-the-badge&&logoWidth=30" />
 	</a>
   </p>
 </p>
