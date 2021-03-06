@@ -7,7 +7,7 @@
 	  <img src="https://img.shields.io/badge/Subscribe%20To%20My%20YouTube-ff0000?logoColor=white&logo=youtube&style=for-the-badge&&logoWidth=30" />
 	</a>
 	<a href="https://www.twitch.tv/fl2mexd">
-	  <img src="https://img.shields.io/badge/Follow%20Me%20On%20Titch-6441a5?logoColor=white&logo=twitch&style=for-the-badge&&logoWidth=30" />
+	  <img src="https://img.shields.io/badge/Follow%20Me%20On%20Twitch-6441a5?logoColor=white&logo=twitch&style=for-the-badge&&logoWidth=30" />
 	</a>
   </p>
 </p>
